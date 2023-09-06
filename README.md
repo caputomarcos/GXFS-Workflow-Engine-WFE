@@ -64,7 +64,7 @@ To get started with the latest code from the repository, follow these steps:
 
 ## Getting Help
 
-For more information, updates, and documentation, please visit our [GitHub page](https://github.com/caputomarcos/oaw). Feel free to submit issues or pull requests.
+For more information, updates, and documentation, please visit our [GitHub page](https://github.com/caputomarcos/GXFS-Workflow-Engine-WFE). Feel free to submit issues or pull requests.
 
 ## Copyright and License
 
