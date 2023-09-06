@@ -2,7 +2,7 @@
 
 An advanced low-code workflow engine designed for event-driven applications, optimized for the Gaia-X ecosystem. GXFS WFE is an extension of the popular Node-RED project, offering enhanced features and capabilities.
 
-![GXFS Workflow Engine: Low-code programming for event-driven applications](https://github.com/caputomarcos/GXFS-Workflow-Engine-WFE/assets/3945941/2eddfd8a-2552-4316-a5bb-6ffdbcc489d9)
+![GXFS Workflow Engine: Low-code programming for event-driven applications](/stargate.png)
 
 ## Table of Contents
 
