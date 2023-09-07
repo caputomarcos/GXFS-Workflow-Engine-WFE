@@ -1,0 +1,3 @@
+[submodule "packages/node_modules/@node-red/node-red-contrib-oauth2"]
+	path = packages/node_modules/@node-red/node-red-contrib-oauth2
+	url = git@github.com:caputomarcos/node-red-contrib-oauth2.git
